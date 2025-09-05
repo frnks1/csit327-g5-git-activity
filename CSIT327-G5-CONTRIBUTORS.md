@@ -2,4 +2,4 @@
 
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@juantojuan**)
-- Panugaling, Franklyn John M. (**frnks1**)
+- Panugaling, Franklyn John M. (**@frnks1**)
